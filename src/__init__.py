@@ -1,1 +1,5 @@
-"""Day 8 — RAG Pipeline v2: Dịch vụ đại học (University Services)."""
+"""Day 8 - RAG Pipeline: IELTS Writing Band Descriptors & Scoring."""
+from dotenv import load_dotenv
+
+# Load .env tu goc project khi import bat ky module nao trong src
+load_dotenv()
