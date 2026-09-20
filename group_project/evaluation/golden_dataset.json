@@ -1,0 +1,92 @@
+[
+  {
+    "id": "q01",
+    "question": "What are the four criteria used to assess IELTS Writing Task 2?",
+    "expected_answer": "IELTS Writing Task 2 is assessed on four criteria: Task Response (TR), Coherence and Cohesion (CC), Lexical Resource (LR), and Grammatical Range and Accuracy (GRA). Each criterion is worth 25% of the total Writing score.",
+    "expected_context": "Task Response, Coherence and Cohesion, Lexical Resource, Grammatical Range and Accuracy each carry 25% weight."
+  },
+  {
+    "id": "q02",
+    "question": "What does Band 7 mean for Coherence and Cohesion in IELTS Writing?",
+    "expected_answer": "At Band 7 for Coherence and Cohesion, the response logically organizes information and ideas with clear progression throughout. A range of cohesive devices is used appropriately, although there may be some under- or over-use. Paragraphing is used sufficiently and appropriately.",
+    "expected_context": "Band 7: logically organises information and ideas; there is clear progression throughout; uses a range of cohesive devices appropriately."
+  },
+  {
+    "id": "q03",
+    "question": "How is Lexical Resource scored in IELTS Writing Task 2?",
+    "expected_answer": "Lexical Resource (LR) assesses the range of vocabulary used, the accuracy of word choice, the ability to use less common vocabulary, and awareness of style and collocation. Errors in spelling and word formation are also considered.",
+    "expected_context": "Lexical Resource considers range and precision of vocabulary, awareness of style and collocation, and frequency of errors."
+  },
+  {
+    "id": "q04",
+    "question": "What is the difference between Task Achievement and Task Response in IELTS Writing?",
+    "expected_answer": "Task Achievement is used for Writing Task 1, assessing how completely and accurately the candidate describes visual information. Task Response is used for Writing Task 2, assessing whether the candidate addresses all parts of the essay prompt with a clear position and supported ideas.",
+    "expected_context": "Task Achievement applies to Task 1 report/letter writing, while Task Response applies to Task 2 argumentative essay."
+  },
+  {
+    "id": "q05",
+    "question": "What percentage does each writing criterion contribute to the IELTS Writing band score?",
+    "expected_answer": "Each of the four assessment criteria contributes equally: 25% each toward the final band score for that task.",
+    "expected_context": "Each criterion carries an equal weighting of 25% in the final writing band calculation."
+  },
+  {
+    "id": "q06",
+    "question": "What is required to achieve Band 8 in Grammatical Range and Accuracy in IELTS Writing?",
+    "expected_answer": "Band 8 requires using a wide range of structures with flexibility and accuracy. The majority of sentences are error-free, with only occasional inappropriacies or non-systematic errors, and well-managed punctuation.",
+    "expected_context": "Band 8 Grammatical Range: uses a wide range of structures; the majority of sentences are error-free; makes only very occasional errors."
+  },
+  {
+    "id": "q07",
+    "question": "What is the main requirement for Task Achievement in IELTS Writing Task 1?",
+    "expected_answer": "The main requirement is to clearly cover all requirements of the task, present an accurate overview of key trends or stages, and adequately highlight and illustrate key features with relevant data.",
+    "expected_context": "Task 1 Task Achievement requires a clear overview, selection of main features, and accurate reporting of data."
+  },
+  {
+    "id": "q08",
+    "question": "What is the minimum word count for IELTS Writing Task 2?",
+    "expected_answer": "The minimum word count for IELTS Writing Task 2 is 250 words. Writing below this length will incur a penalty.",
+    "expected_context": "Candidates must write at least 250 words for Task 2. Under-length responses are penalized."
+  },
+  {
+    "id": "q09",
+    "question": "What is the total duration of the IELTS Writing test?",
+    "expected_answer": "The IELTS Writing test lasts 60 minutes in total, typically split into 20 minutes for Task 1 and 40 minutes for Task 2.",
+    "expected_context": "Total test time is 60 minutes: recommended 20 minutes on Task 1 and 40 minutes on Task 2."
+  },
+  {
+    "id": "q10",
+    "question": "What distinguishes Band 5 from Band 6 in IELTS Writing Task Response?",
+    "expected_answer": "At Band 5, the task is addressed only partially, format may be inappropriate, and development is limited. At Band 6, all parts of the task are addressed, though some aspects may be more fully covered than others.",
+    "expected_context": "Band 5 addresses the task only partially; Band 6 addresses all parts of the task though some parts may lack detail."
+  },
+  {
+    "id": "q11",
+    "question": "What is the lost-in-the-middle problem in LLM context processing?",
+    "expected_answer": "The lost-in-the-middle problem describes the tendency of language models to perform worse when relevant information is placed in the middle of long contexts compared to the beginning or end.",
+    "expected_context": "LLMs show higher retrieval performance for items at the start and end of context compared to items in the middle."
+  },
+  {
+    "id": "q12",
+    "question": "What does Band 9 represent in the IELTS Writing scale?",
+    "expected_answer": "Band 9 represents an 'Expert User' who has full operational command of the language with fluent, accurate, and fully appropriate expression and sophisticated control of English.",
+    "expected_context": "Band 9 Expert User: full operational command of the language, fluent with complete understanding, sophisticated control."
+  },
+  {
+    "id": "q13",
+    "question": "How is Reciprocal Rank Fusion (RRF) calculated in hybrid search?",
+    "expected_answer": "RRF combines rankings from multiple retrieval systems using the formula RRF(d) = sum(1 / (k + rank)), where rank starts from 1 and k is a smoothing constant typically set to 60.",
+    "expected_context": "RRF score = sum over all rank lists of 1 / (60 + rank_i), merging multiple ranked lists without score normalization."
+  },
+  {
+    "id": "q14",
+    "question": "Why is hybrid retrieval combining BM25 and dense retrieval beneficial?",
+    "expected_answer": "Hybrid retrieval combines BM25's strength in exact keyword matching, technical terms, and proper nouns with dense retrieval's ability to capture semantic meaning, synonyms, and paraphrasing.",
+    "expected_context": "Hybrid search leverages keyword precision from BM25 and semantic understanding from embedding models."
+  },
+  {
+    "id": "q15",
+    "question": "What happens if an IELTS Writing response is completely off-topic?",
+    "expected_answer": "If an IELTS Writing response is completely off-topic or memorized, it will receive Band 1 or 2 for Task Response/Achievement, significantly lowering the overall Writing band score.",
+    "expected_context": "An answer that is completely unrelated to the prompt or clearly memorized is awarded Band 1 or 2 for Task Response."
+  }
+]
